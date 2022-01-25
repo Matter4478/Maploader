@@ -1,1 +1,20 @@
-{ [{"Saas-Fee" : "https//:url"}, {"Graechen":"url"}]}
+[
+  [
+    {
+      "name": "Saas-Fee"
+    },
+    {
+      "description": "Saas-Fee in the Saas valley by Matter4478"
+    },
+    {
+      "files": [
+        {
+          "https://matter4478.github.io/Maploader/Saas-Fee/map.png": "map.png"
+        },
+        {
+          "https://matter4478.github.io/Maploader/Saas-Fee/meta": "Meta"
+        }
+      ]
+    }
+  ]
+]
