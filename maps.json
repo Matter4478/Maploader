@@ -7,6 +7,9 @@
       "description": "Saas-Fee in the Saas valley by Matter4478"
     },
     {
+      "target": "Maps"
+    },
+    {
       "files": [
         {
           "https://matter4478.github.io/Maploader/Saas-Fee/map.png": "map.png"
